@@ -1,0 +1,13 @@
+# Quantum Gamer V2.0.0 Released on 03-july-2021 Commands list and summary
+`!vcfishing-multiplayer fishing game in your are in vc on desktop`
+`!vcchess-multiplayer chess game in your are in vc on desktop`
+`!vcpoker-multiplayer poker game in your are in vc on desktop`
+`!yttheater-if your in a vc will allow you to watch YouTube with friends in that VC like theater mode from Xbox360`
+`!cod-wz-psn- search for your warzone stats on psn !cod-wz-psn PSNID`
+`!cod-wz-xbl- search for your warzone stats on xbl !cod-wz-xbl GAMERTAG`
+`!cod-wz-btt- search for your warzone stats on BATTLENET !cod-wz-btt BATTLENET ID`
+`!reg-have the bot remember your Gamertag and platfform for different games`
+ `syntax: !reg GamerTag Platform Game`
+ `accecpted games codwz`
+`accecpted platforms xbl, psn, battle`
+`!!mystats-game-once you usew !reg you can use this command to get stats on the fly currently the only``!mystats that is working is !mystats-codwz for warzone`
