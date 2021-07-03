@@ -1,0 +1,15 @@
+{
+    "botsettings":{
+        "token":"",
+        "prefix":"!"
+    },
+    "apiauth":{
+        "codemail":"",
+        "codpass":"",
+        "XBL_API":""
+    },
+    "DBCON":{
+        "type":"",
+        "connector":""
+    }
+}
